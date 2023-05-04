@@ -1,0 +1,61 @@
+div:hover {
+    border: 2px solid black;
+}
+
+.primaria {
+    background-color: yellow;
+    color: cadetblue;
+}
+
+.secundaria {
+    background-color: green;
+    color: darkslategray;
+}
+
+.terceira {
+    background-color: orange;
+    width: 100%;
+    height: 100px;
+    text-align: left;
+    padding-top: 30px;
+}
+
+.escura {
+    background-color: darkslateblue;
+    color: azure;
+}
+
+.clara {
+    background-color: lightcoral;
+    color: bisque;
+}
+
+#cor-primaria {
+font-size: 18px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 200;
+}
+
+#cor-secundaria {
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 200;
+}
+
+#cor-complementar {
+font-size: 25px;
+font-weight: 300;
+font-family: fantasy;
+}
+
+#cor-escura {
+font-size: 20pt;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 200;
+}
+
+#cor-clara {
+font-size: 15pt;
+font-family: serif;
+font-weight: 500;
+}
